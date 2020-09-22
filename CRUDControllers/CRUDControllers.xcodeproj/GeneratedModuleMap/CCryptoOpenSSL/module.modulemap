@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/krishna/Desktop/CRUDBackend/CRUDControllers/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}

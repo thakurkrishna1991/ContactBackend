@@ -1,0 +1,4 @@
+module CNIOOpenSSL {
+    umbrella "/Users/krishna/Desktop/CRUDBackend/CRUDControllers/.build/checkouts/swift-nio-ssl/Sources/CNIOOpenSSL/include"
+    export *
+}
